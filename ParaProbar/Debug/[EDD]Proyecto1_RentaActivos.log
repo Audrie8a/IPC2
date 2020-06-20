@@ -1,0 +1,30 @@
+﻿  Arbol_AVL.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Arbol_AVL.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Matriz.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Nodo.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Nodo.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Menu.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Arbol_AVL.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Menu.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Nodo.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Arbol_AVL.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\TransaccionLCDE.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Metodos.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Menu.cpp(12,7): warning C4101:  'acceso': variable local sin referencia
+  Nodo.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Metodos.cpp(31,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  NodoArbol.cpp
+  nodoTransacciones.cpp
+  TransaccionLCDE.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Nodo.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  [EDD]Proyecto1_RentaActivos.cpp
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\TransaccionLCDE.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Menu.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Nodo.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Arbol_AVL.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\TransaccionLCDE.h(2,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\TransaccionLCDE.cpp(112): warning C4715:  'TransaccionLCDE::comprobarIdentificacion': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Metodos.cpp(69): warning C4715:  'Metodos::Mayor_Menor': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Metodos.cpp(91): warning C4715:  'Metodos::salir': no todas las rutas de acceso de control devuelven un valor
+  [EDD]Proyecto1_RentaActivos.vcxproj -> C:\Users\Audrie\source\repos\[EDD]Proyecto1_RentaActivos\Debug\[EDD]Proyecto1_RentaActivos.exe

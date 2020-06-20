@@ -1,0 +1,11 @@
+digraph G{
+node [shape = record, style=filled, fillcolor=seashell2];nodo87287b8JZnSujFp [ label="<C0>|87287b8JZnSujFp, d, Sin Rentar|<C1>"]; 
+nodo47015yRKnZdbDXl [ label="<C0>|47015yRKnZdbDXl, jd, Sin Rentar|<C1>"]; 
+nodo20176xJFWy0V27R [ label="20176xJFWy0V27R, 4, Sin Rentar"]; 
+nodo47015yRKnZdbDXl:C0->nodo20176xJFWy0V27R
+nodo84823SDva0Q0hvL [ label="84823SDva0Q0hvL, 6, Sin Rentar"]; 
+nodo47015yRKnZdbDXl:C1->nodo84823SDva0Q0hvL
+nodo87287b8JZnSujFp:C0->nodo47015yRKnZdbDXl
+nodo95440mcNHpbcn0H [ label="95440mcNHpbcn0H, 9, Sin Rentar"]; 
+nodo87287b8JZnSujFp:C1->nodo95440mcNHpbcn0H
+}
