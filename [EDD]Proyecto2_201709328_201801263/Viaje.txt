@@ -1,0 +1,3 @@
+digraph g {
+node [shape=record fontname=Arial];nodo0[label="WDMiN8y3UETS6+2NZ4BrHiCAoyheB+VG/OAn+5B2KJA=, Bilbao, Gerona, Cliente: 1, Conductor: 7805544360015, Tiempo: 720 "width = 1 style = filled, fillcolor = skyblue3];
+}
